@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class UserProfile extends StatefulWidget{
-  UserProfile({Key ? key,  required this.title}) : super(key: key);
+  UserProfile({Key key, this.title}) : super(key: key);
 
   final String title;
 
