@@ -1,6 +1,6 @@
 # demo
 
-flutter model app
+Flutter model app
 
 ## Getting Started
 
