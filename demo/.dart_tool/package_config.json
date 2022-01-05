@@ -44,6 +44,30 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "connectivity",
+      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-0.4.9+5",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "connectivity_for_web",
+      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.3.1+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "connectivity_macos",
+      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.1.0+7",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "connectivity_platform_interface",
+      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_platform_interface-1.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4",
       "packageUri": "lib/",
@@ -74,6 +98,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flushbar",
+      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flushbar-1.10.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/Users/Hp/Documents/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -96,6 +126,18 @@
       "rootUri": "file:///C:/Users/Hp/Documents/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.12.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
     },
     {
       "name": "intl",
@@ -144,6 +186,12 @@
       "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.11"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "platform",
@@ -255,7 +303,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.3.1",
+      "rootUri": "file:///C:/Users/Hp/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/win32-2.3.3",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -272,7 +320,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-12-30T14:15:50.274393Z",
+  "generated": "2022-01-05T18:12:36.746427Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
